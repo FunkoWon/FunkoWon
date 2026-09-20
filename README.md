@@ -1,56 +1,67 @@
-<h1 align="center">Hi there, I'm Nick 👋</h1>
-<h3 align="center">Aspiring Software Developer | Content Creator | Video Editor | Graphic Designer</h3>
+# Hi, I'm Nick 👋
+
+**Aspiring Software Developer** based in Taytay, Rizal, Philippines, with a parallel background in **content creation, video editing, and graphic design**. I'm currently focused on building practical, real-world projects while strengthening my skills in front-end development.
+
+---
+
+## About Me
+
+I'm in the process of transitioning into software development, combining a self-taught foundation in web technologies with several years of hands-on experience producing digital content. This gives me a slightly different perspective as a developer — I understand not just how to build things, but how they should look, feel, and communicate.
+
+- 🔭 Currently building personal projects to strengthen my portfolio in web development
+- 🌱 Learning: React, Tailwind CSS, and modern JavaScript practices
+- 🎬 Professionally active as a short-form video editor and content creator
+- 🎨 Additional experience in graphic design and branding assets
+- 📍 Taytay, Rizal, Philippines (UTC+08:00)
+- 📫 Reach me at **jhonmarave2006@gmail.com**
+
+---
+
+## Technical Skills
+
+**Languages & Frameworks**
+`JavaScript` `HTML5` `CSS3` `React` `Tailwind CSS` `Java` `Python`
+
+**Tools**
+`Git` `GitHub` `VS Code`
+
+**Creative Skills**
+`Video Editing` `Content Strategy` `Graphic Design` `Short-Form Content Production`
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**TypeSpeedTest**](https://github.com/FunkoWon/TypeSpeedTest) | A browser-based typing speed test that measures WPM and accuracy | JavaScript |
+| [**Inventory-System**](https://github.com/FunkoWon/Inventroy-System) | A Java-based system for tracking and managing inventory records | Java |
+| [**CRUD**](https://github.com/FunkoWon/CRUD) | A foundational Create-Read-Update-Delete application | Python |
+| [**js-challenges**](https://github.com/FunkoWon/js-challenges) | A working archive of JavaScript exercises and problem-solving practice | JavaScript |
+
+*More projects in progress — check my pinned repositories for the latest work.*
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Building+with+HTML%2C+CSS%2C+JS%2C+React+%26+Tailwind;Editing+short-form+content+for+TikTok;Creating+graphics+that+catch+the+eye;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FunkoWon&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunkoWon&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FunkoWon&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ---
 
-### 🚀 About Me
+## Let's Connect
 
-- 🌱 Currently sharpening my skills in **HTML, CSS, JavaScript, React & Tailwind**
-- 🎬 Also work as a **Short-Form Video Editor**, **Content Creator**, and **Graphic Designer**
-- 💻 Building personal projects to grow my software development portfolio
-- 📍 Based in Taytay, Rizal, Philippines
-- ⏰ UTC +08:00
+I'm open to collaboration on development projects, as well as freelance work in video editing, content creation, and graphic design.
+
+- 📧 Email: [jhonmarave2006@gmail.com](mailto:jhonmarave2006@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,git,github,vscode" />
-</p>
-
----
-
-### 🎨 Creative Toolkit
-
-`Video Editing` · `Content Creation` · `Graphic Design` · `Short-Form Content (TikTok / Reels / Shorts)`
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [TypeSpeedTest](https://github.com/FunkoWon/TypeSpeedTest) | A typing speed test app | JavaScript |
-| [Inventory-System](https://github.com/FunkoWon/Inventroy-System) | An inventory management system | Java |
-| [CRUD](https://github.com/FunkoWon/CRUD) | A basic CRUD application | Python |
-| [js-challenges](https://github.com/FunkoWon/js-challenges) | A collection of JavaScript practice problems | JavaScript |
-
----
-
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="mailto:jhonmarave2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos! ⭐</i></p>
+<p align="center"><sub>Thanks for visiting my profile — feel free to explore my repositories below.</sub></p>
