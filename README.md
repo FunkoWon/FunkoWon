@@ -30,18 +30,6 @@ I'm in the process of transitioning into software development, combining a self-
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**TypeSpeedTest**](https://github.com/FunkoWon/TypeSpeedTest) | A browser-based typing speed test that measures WPM and accuracy | JavaScript |
-| [**Inventory-System**](https://github.com/FunkoWon/Inventroy-System) | A Java-based system for tracking and managing inventory records | Java |
-| [**CRUD**](https://github.com/FunkoWon/CRUD) | A foundational Create-Read-Update-Delete application | Python |
-| [**js-challenges**](https://github.com/FunkoWon/js-challenges) | A working archive of JavaScript exercises and problem-solving practice | JavaScript |
-
-*More projects in progress — check my pinned repositories for the latest work.*
-
----
 
 
 ## Let's Connect
