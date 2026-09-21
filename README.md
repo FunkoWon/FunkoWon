@@ -17,16 +17,25 @@ I'm in the process of transitioning into software development, combining a self-
 
 ---
 
-## Technical Skills
+## Tech Stack and Tools
 
-**Languages & Frameworks**
-:`JavaScript` `HTML5` `CSS3` `React` `Tailwind CSS` `Java` `Python`
+**Languages & Frameworks**  
+`JavaScript` `HTML5` `CSS3` `React` `Tailwind CSS` `Java` `Python`
 
-**Tools**
-:`Git` `GitHub` `VS Code`
+**Development Tools**  
+`Git` `GitHub` `VS Code` `npm` `Vite`
 
-**Creative Skills**
-:`Video Editing` `Content Strategy` `Graphic Design` `Short-Form Content Production`
+**Platforms & Services**  
+`Vercel` `Netlify` `Firebase` `EmailJS`
+
+**Automation & DevOps**  
+`Docker` `n8n`
+
+**Design & Creative Tools**  
+`Figma` `Adobe Photoshop` `Adobe Premiere Pro` `CapCut`
+
+**Creative Skills**  
+`Video Editing` `Content Strategy` `Graphic Design` `Short-Form Content Production`
 
 ---
 
