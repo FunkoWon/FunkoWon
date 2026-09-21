@@ -20,13 +20,13 @@ I'm in the process of transitioning into software development, combining a self-
 ## Technical Skills
 
 **Languages & Frameworks**
-`JavaScript` `HTML5` `CSS3` `React` `Tailwind CSS` `Java` `Python`
+:`JavaScript` `HTML5` `CSS3` `React` `Tailwind CSS` `Java` `Python`
 
 **Tools**
-`Git` `GitHub` `VS Code`
+:`Git` `GitHub` `VS Code`
 
 **Creative Skills**
-`Video Editing` `Content Strategy` `Graphic Design` `Short-Form Content Production`
+:`Video Editing` `Content Strategy` `Graphic Design` `Short-Form Content Production`
 
 ---
 
