@@ -20,22 +20,22 @@ I'm in the process of transitioning into software development, combining a self-
 ## Tech Stack and Tools
 
 **Languages & Frameworks**  
-`JavaScript` `HTML5` `CSS3` `React` `Tailwind CSS` `Java` `Python`
+:`JavaScript` `HTML5` `CSS3` `React` `Tailwind CSS` `Java` `Python`
 
 **Development Tools**  
-`Git` `GitHub` `VS Code` `npm` `Vite`
+:`Git` `GitHub` `VS Code` `npm` `Vite`
 
 **Platforms & Services**  
-`Vercel` `Netlify` `Firebase` `EmailJS`
+:`Vercel` `Netlify` `Firebase` `EmailJS`
 
 **Automation & DevOps**  
-`Docker` `n8n`
+:`Docker` `n8n`
 
 **Design & Creative Tools**  
-`Figma` `Adobe Photoshop` `Adobe Premiere Pro` `CapCut`
+:`Figma` `Adobe Photoshop` `Adobe Premiere Pro` `CapCut`
 
 **Creative Skills**  
-`Video Editing` `Content Strategy` `Graphic Design` `Short-Form Content Production`
+:`Video Editing` `Content Strategy` `Graphic Design` `Short-Form Content Production`
 
 ---
 
