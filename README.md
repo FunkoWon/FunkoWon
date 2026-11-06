@@ -14,7 +14,7 @@ I combine a foundation in web development with hands-on experience in video edit
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages & Frameworks** | `JavaScript` `React` `Tailwind CSS` `HTML5` `CSS3` `Python` `Java` |
-| **Dev Tools & Workflow** | `Git` `GitHub` `VS Code` `Vite` `npm` `Docker` `n8n` `Antigravity` `Orca`|
-| **Platforms & Services** | `Vercel` `Netlify` `Firebase` `EmailJS` `Supabase` `Google auth` |
-| **Design & Media** | `Figma` `Adobe Premiere Pro` `Adobe Photoshop` `CapCut` |
+| **Dev Tools & AI Workflow** | `Git` `GitHub` `VS Code` `Vite` `npm` `Docker` `Claude Code` `OpenCode` `Codex` `Antigravity` `Orca` `n8n` |
+| **Platforms & Services** | `Vercel` `Netlify` `Firebase` `Supabase` `EmailJS` `Google Auth` |
+| **Design & Media** | `Figma` `Figcraft` `Adobe Premiere Pro` `Adobe Photoshop` `CapCut` |
 | **Creative Skills** | `Video Editing` `Short-Form Production` `Graphic Design` `Content Strategy` |
